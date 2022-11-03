@@ -1,0 +1,39 @@
+2022-10-28 04:04:26 INFO  Principal:15 - The project is started
+2022-10-28 04:04:27 INFO  Principal:32 - The project is fineshed
+2022-10-28 04:07:17 INFO  Principal:15 - The project is started
+2022-10-28 04:07:18 INFO  Principal:23 - Going to create teacherList Object
+2022-10-28 04:07:18 INFO  Principal:27 - teacherList Object is created
+2022-10-28 04:07:18 INFO  Principal:34 - The project is fineshed
+2022-10-28 04:11:25 INFO  Principal:15 - The project is started
+2022-10-28 04:11:26 INFO  Principal:23 - Going to create teacherList Object
+2022-10-28 04:11:26 INFO  Principal:27 - teacherList Object is created
+2022-10-28 04:11:26 INFO  Principal:28 - [com.emc.lists.Teacher@4d826d77, com.emc.lists.Teacher@61009542]
+2022-10-28 04:11:26 INFO  Principal:35 - The project is fineshed
+2022-11-03 02:37:27 INFO  Principal:15 - The project is started
+2022-11-03 02:37:28 INFO  Principal:27 - The project is fineshed
+2022-11-03 02:39:59 INFO  Principal:15 - The project is started
+2022-11-03 02:40:00 INFO  Principal:23 - [com.emc.xml.lists.Teacher@2173f6d9, com.emc.xml.lists.Teacher@307f6b8c]
+2022-11-03 02:40:00 INFO  Principal:26 - 1
+2022-11-03 02:40:00 INFO  Principal:27 - Pepe
+2022-11-03 02:40:00 INFO  Principal:26 - 2
+2022-11-03 02:40:00 INFO  Principal:27 - Alberto
+2022-11-03 02:40:00 INFO  Principal:32 - The project is fineshed
+2022-11-03 02:41:08 INFO  Principal:15 - The project is started
+2022-11-03 02:41:09 INFO  Principal:24 - [com.emc.xml.lists.Teacher@2173f6d9, com.emc.xml.lists.Teacher@307f6b8c]
+2022-11-03 02:41:09 INFO  Principal:27 - 1
+2022-11-03 02:41:09 INFO  Principal:28 - Pepe
+2022-11-03 02:41:09 INFO  Principal:27 - 2
+2022-11-03 02:41:09 INFO  Principal:28 - Alberto
+2022-11-03 02:41:09 INFO  Principal:33 - The project is fineshed
+2022-11-03 09:27:37 INFO  Principal:15 - The project is started
+2022-11-03 09:27:39 INFO  Principal:23 - Going to create teacherList Object
+2022-11-03 09:27:39 INFO  Principal:27 - teacherList Object is created
+2022-11-03 09:27:39 INFO  Principal:28 - [com.emc.lists.Teacher@61009542, com.emc.lists.Teacher@77e9807f]
+2022-11-03 09:27:39 INFO  Principal:35 - The project is fineshed
+2022-11-03 09:36:32 INFO  Principal:15 - The project is started
+2022-11-03 09:36:33 INFO  Principal:24 - [com.emc.xml.lists.Teacher@2173f6d9, com.emc.xml.lists.Teacher@307f6b8c]
+2022-11-03 09:36:33 INFO  Principal:27 - 1
+2022-11-03 09:36:33 INFO  Principal:28 - Pepe
+2022-11-03 09:36:33 INFO  Principal:27 - 2
+2022-11-03 09:36:33 INFO  Principal:28 - Alberto
+2022-11-03 09:36:33 INFO  Principal:33 - The project is finished
