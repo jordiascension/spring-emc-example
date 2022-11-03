@@ -35,4 +35,24 @@
         <constructor-arg index="3" value="Carrer Alfons 10" 
         type="java.lang.String"/>
     </bean>
+    
+    <bean id="teacher1" class="com.emc.xml.lists.Teacher">
+    	<property name="id" value="1"></property>
+    	<property name="name" value="Pepe"></property>
+    </bean>
+	<bean id="teacher2" class="com.emc.xml.lists.Teacher">
+	    <property name="id" value="2"></property>
+    	<property name="name" value="Alberto"></property>
+	</bean>
+	
+	<bean id="teachers" class="java.util.ArrayList">
+	    <constructor-arg>
+	        <list>
+	            <ref bean="teacher1" />
+	            <ref bean="teacher2" />                
+	        </list>
+	    </constructor-arg>
+	</bean>
+    
+   
 </beans>
